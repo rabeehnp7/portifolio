@@ -13,5 +13,7 @@ body{
   color: #fff;
 }
 .bg-img{
-  background-image: url(../src/assets/bg-img5.png);
+  background: rgb(18,40,44);
+background: linear-gradient(90deg, rgba(18,40,44,1) 0%, rgba(12,12,103,1) 46%, rgba(2,0,36,1) 100%);
+
 }
