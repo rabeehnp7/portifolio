@@ -111,7 +111,7 @@ export const SKILLS = [
 export const EXPERIENCES = [
   {
     title: "Full Stack Developer Intern",
-    company: "Techzios",
+    company: "Techzia",
     duration: "Dec 2023 - Sep 2024",
     description:
       "Developed and maintained web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Collaborated with cross-functional teams to deliver features, troubleshoot issues, and optimize performance. Gained hands-on experience in both frontend and backend development, contributing to project architecture and deployment.",
